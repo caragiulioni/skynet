@@ -553,6 +553,26 @@ animation:vibrateThree .1s linear 0s infinite ;
 	}
 }
 
+@media screen and (max-width: 812px){
+.logoLayer{
+
+	width: 50%;
+}
+
+	body{
+
+		background-image: url(images/header2mobile.jpg);
+	}
+}
+
+
+@media screen and (max-width: 550px){
+.logoLayer{
+
+	width: 85%;
+	}
+}
+
 /*/////////////////////////// KEYFRAMES//////////////////////////////////*/
 
 
